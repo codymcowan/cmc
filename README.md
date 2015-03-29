@@ -1,2 +1,2 @@
 # cmc
-website
+website - http://codycowan.github.io/cmc/
