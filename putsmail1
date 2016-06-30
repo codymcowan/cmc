@@ -1,0 +1,147 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>GS Marquee Content Stream: Content Accepted</title>
+    <style type="text/css">
+@media only screen and (max-width: 600px) {
+    .remove-width {
+        width: auto!important;
+    }
+
+    .remove-width-right {
+        width: auto!important;
+        float: right!important;
+    }
+
+    .indent {
+        padding-left: 20px!important;
+    }
+
+    .hide-mobile {
+        display: none!important;
+    }
+
+    table[class=emailWrapper] {
+        width: 100%!important;
+    }
+
+    .header-title {
+        font-size: 14px !important;
+        padding-right: 15px;
+    }
+
+    .header-date {
+        font-size: 12px !important;
+        padding-right: 15px;
+    }
+
+    .logo {
+        padding-left: 15px;
+        height: auto !important;
+    }
+
+    .content-left, .content-right {
+        width: auto!important;
+        display: block!important;
+        clear: both!important;
+        padding-right: 20px!important;
+    }
+
+    .content-left p, .content-right p {
+        font-size: 13px!important;
+    }
+
+    .content-left, .content-right {
+        padding-left: 20px!important;
+    }
+
+    .content-right {
+        border-top: 1px solid #e0e0e0!important;
+    }
+}
+</style>
+  </head>
+  <body style='background:#fbfdff;font-size:12px;margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;font-family:"Arial"'>
+    <!-- document-header -->
+    <table cellpadding="0" cellspacing="0" width="100%" bgcolor="#172026" class="diff-color" style="border-collapse:collapse">
+      <tr>
+        <td valign="top" style="-webkit-text-size-adjust:none">
+          <!-- BEGIN: Email Wrapper -->
+          <table width="600" class="emailWrapper remove-width header" cellspacing="0" cellpadding="0" border="0" align="center" style="border-collapse:collapse">
+            <tr>
+              <td valign="middle" align="center" class="remove-width pv1" style="-webkit-text-size-adjust:none;padding-top:30px;padding-bottom:30px">
+                <a href="#" title="Goldman Sachs Marquee" target="_blank" style="border:0;text-decoration:underline;color:#1997EB;-webkit-text-size-adjust:none;border:none;outline:none"><img src="https://res.cloudinary.com/dtypy8lsd/image/upload/v1461780441/content-stream_kbkexb.png" alt="Goldman Sachs Marquee" width="288" height="31" title="Goldman Sachs Marquee" class="logo" style="max-width:100%;border:0;border:none;outline:none;vertical-align:bottom"></a>
+              </td>
+            </tr>
+          </table>
+          <!-- END: Email Wrapper -->
+        </td>
+      </tr>
+    </table>
+    <!-- end document-header -->
+    <table width="600" class="remove-width emailWrapper" cellspacing="0" cellpadding="0" border="0" align="center" bgcolor="#FBFDFF" style="border-collapse:collapse">
+      <tr>
+        <td style="-webkit-text-size-adjust:none">
+          <!-- document-alert-content-list -->
+          <table width="100%" cellpadding="0" cellspacing="0" bgcolor="#ffffff" class="email-content-holder-enclosed indent mb1" style="border-collapse:collapse;margin-bottom:16px;border-right:1px solid #D7F3FF;border-bottom:1px solid #D7F3FF;border-left:1px solid #D7F3FF">
+            <tr>
+              <td class="pa1" style="-webkit-text-size-adjust:none;padding-top:30px;padding-left:16px;padding-right:16px;text-align:center;">
+                <h2 class="section-header" style='margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;font-size:18px;font-weight:bold;line-height:normal;font-family:"Arial";font-size:20px;color:#1997EB'>Thanks for your request!</h2>
+                      <table border="0" width="100%" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+                        <tr>
+                          <td class="divider" style="-webkit-text-size-adjust:none;border:0;border-bottom:1px solid #ececec;font-size:24px">&nbsp;</td>
+                        </tr>
+                      </table>
+              </td>
+            </tr>
+            <tr>
+              <td valign="top" align="left" style="-webkit-text-size-adjust:none">
+                <div class="spacer" style="-webkit-text-size-adjust:none;font-size:6px">
+                  &nbsp;
+                                </div>
+                <!-- document-content-piece -->
+                <table cellpadding="0" width="100%" align="center" cellspacing="0" bgcolor="#ffffff" style="border-collapse:collapse">
+                  <tr>
+                    <td class="content-cell content-left" valign="top" align="left" style="font-family:'Arial';-webkit-text-size-adjust:none;font-size:14px;color:#28282b;padding-left:17px;padding-right:17px">
+                      <p>Hello Madeline, </p>
+                      <p style="margin-top:24px;line-height:1.5">Thank you for your request to publish content on Content Stream! We are in a limited preview beta at this time and welcome your contributions.</p>
+                      <p style="margin-top:24px;line-height:1.5">Please reply to this email to receive instructions on how to start publishing with Content Stream.</p>
+                      <p style="margin-top:24px;line-height:1.5">Sincerely, </p>
+                      <p style="margin-top:24px;line-height:1.5">The Marquee Content Stream Team</p>
+                    </td>
+                  </tr>
+                </table>
+                <!-- end document-content-piece -->
+                <div style="-webkit-text-size-adjust:none">&nbsp;</div>
+              </td>
+            </tr>
+          </table>
+          <!-- end document-alert-content-list -->
+          <div class="spacer-big" style="-webkit-text-size-adjust:none;font-size:12px">&nbsp;</div>
+          <!-- BEGIN: Footer -->
+          <table cellpadding="0" width="600" class="remove-width" align="center" cellspacing="0" style="border-collapse:collapse;text-align:center;">
+            <tr>
+              <td valign="top" style="-webkit-text-size-adjust:none;padding-bottom:20px;padding-left:50px;padding-right:50px;">
+                <div class="disclaimers indent" style='-webkit-text-size-adjust:none;font-family:"Arial";color:#85909A;font-size:11px'>
+                  You are receiving this email update from Marquee Content Stream.
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td valign="top" style="-webkit-text-size-adjust:none;padding-bottom:20px;padding-left:50px;padding-right:50px;">
+                <div class="disclaimers" style='-webkit-text-size-adjust:none;font-family:"Arial";color:#85909A;font-size:11px'>
+                  For questions or comments, email us at <a href="mailto:gs-marquee-content@gs.com" style="border:0;text-decoration:underline;color:#1997EB;-webkit-text-size-adjust:none;border:none;outline:none">gs-marquee-content@gs.com</a>.<br>
+                  200 West Street, New York, NY 10282.
+                                </div>
+              </td>
+            </tr>
+          </table>
+          <!-- END: Footer -->
+          <div class="spacer" style="-webkit-text-size-adjust:none;font-size:6px">&nbsp;</div>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
