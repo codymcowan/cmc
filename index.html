@@ -55,10 +55,19 @@
                 <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/codycowan/30min'});return false;"><span>Let's Talk: Click Here</span></a>
               </div>
             </div>
-            <h3>As a former founder and early stage employee, I understand how to turn a 30,000 foot idea into a tangible action plan. As a strategic advisor, I help founders, CTOs, and project leads turn their vision into reality - step by step. My expertise includes engineering management, design guidance, product roadmapping, agency management, and scaling teams.</h3>
-            <h3>I have been lucky enough to build web, mobile, and API products for healthcare, media, and SaaS companies. I've worked with diverse clients including large corporations such as Goldman Sachs and smaller organizations such as Radish Health and The Audubon Society. While I love working on any new idea, my favorite products are the often hidden engines of companies - the operational platforms and infrastructure that make the business run.</h3>
+            <!-- <h3>As a former founder and early stage employee, I understand how to turn a 30,000 foot idea into a tangible action plan. As a strategic advisor, I help founders, CTOs, and project leads turn their vision into reality - step by step. My expertise includes engineering management, design guidance, product roadmapping, agency management, and scaling teams.</h3> -->
+            <!-- <h3>I have been lucky enough to build web, mobile, and API products for healthcare, media, and SaaS companies. I've worked with diverse clients including large corporations such as Goldman Sachs and smaller organizations such as Radish Health and The Audubon Society. While I love working on any new idea, my favorite products are the often hidden engines of companies - the operational platforms and infrastructure that make the business run.</h3> -->
         </div>
     </header>
+    <script>
+      function initFreshChat() {
+        window.fcWidget.init({
+          token: "6d4aa3ce-210d-458a-a30c-7f5d954312ad",
+          host: "https://wchat.freshchat.com"
+        });
+      }
+      function initialize(i,t){var e;i.getElementById(t)?initFreshChat():((e=i.createElement("script")).id=t,e.async=!0,e.src="https://wchat.freshchat.com/js/widget.js",e.onload=initFreshChat,i.head.appendChild(e))}function initiateCall(){initialize(document,"Freshchat-js-sdk")}window.addEventListener?window.addEventListener("load",initiateCall,!1):window.attachEvent("load",initiateCall,!1);
+    </script>
     <script data-host="https://microanalytics.io" data-dnt="false" src="https://microanalytics.io/js/script.js" id="ZwSg9rf6GA" async defer></script>
 </body>
 
